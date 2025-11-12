@@ -15,7 +15,7 @@ namespace lesson5
             Student s2 = new Student(11111, "tamar", 34);
             Student s3 = new Student(99999, "chani", 32);
 
-            Group<Student> group = new Group<Student>(s1, 1, 5);
+            Group1<Student> group = new Group1<Student>(s1, 1, 5);
 
             group.Add(s1);
             group.Add(s2);
@@ -25,6 +25,10 @@ namespace lesson5
 
             Console.WriteLine("\nMembers:");
             group.PrintMembers();
+
+
+            Console.WriteLine("\nToString():");
+            Console.WriteLine(group);
         }
     }
 

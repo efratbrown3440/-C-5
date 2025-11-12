@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\שעורי בית\\lesson5\\lesson5\\lesson5.csproj",
+      "projectUniqueName": "C:\\Users\\ילדים\\Documents\\C# שעורי בית\\lesson5\\lesson5\\lesson5.csproj",
       "projectName": "lesson5",
-      "projectPath": "D:\\C#\\שעורי בית\\lesson5\\lesson5\\lesson5.csproj",
+      "projectPath": "C:\\Users\\ילדים\\Documents\\C# שעורי בית\\lesson5\\lesson5\\lesson5.csproj",
       "packagesPath": "C:\\Users\\ילדים\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\שעורי בית\\lesson5\\lesson5\\obj\\",
+      "outputPath": "C:\\Users\\ילדים\\Documents\\C# שעורי בית\\lesson5\\lesson5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ילדים\\AppData\\Roaming\\NuGet\\NuGet.Config",

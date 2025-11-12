@@ -10,7 +10,7 @@ using System.Xml.Linq;
 
 namespace lesson5
 {
-    public class Group<T> : IList<T>
+    public class Group1<T> : IList<T>
     {
         public List<T> Members { get; set; } = new List<T>();
         public string HeadGroup { get; set; }
@@ -18,9 +18,9 @@ namespace lesson5
         public int CountFrendMin { get; init; }
         public DateTime StartGroup { get; set; } = DateTime.Now;
 
-        public Group() { }
+        public Group1() { }
 
-        public Group(T leader, int min, int max)
+        public Group1(T leader, int min, int max)
         {
             HeadGroup = leader.ToString();
             CountFrendMin = min;
